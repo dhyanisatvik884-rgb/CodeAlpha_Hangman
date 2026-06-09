@@ -1,0 +1,4 @@
+Portfolio record of investment by each stock :
+{'TSLA': 2000, 'GOOG': 2700, 'AMZN': 525, 'NFLX': 1960}
+
+Total investment value = 7185
