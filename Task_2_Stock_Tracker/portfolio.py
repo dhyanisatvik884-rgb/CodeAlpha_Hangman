@@ -29,7 +29,7 @@ while True:
 print("\nPortfolio record of investment by each stock :\n", portfolio)    
 print("Total investment value = ", invest_val_total)
 
-myfile = open("portfolio.txt","w+")
+myfile = open("Task_2_Stock_Tracker/portfolio.txt", "w")
 myfile.write("Portfolio record of investment by each stock :\n")
 myfile.write(str(portfolio) + "\n")
 myfile.write(f"\nTotal investment value = {invest_val_total}\n")
