@@ -1,0 +1,71 @@
+X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+WELCOME TO THE HANGMAN GAME!!!!!!!
+X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+
+
+_ _ _ _ _ _ _ _ _ _ 
+Guess a letter : a
+Letter a is not in the word!!!
+Attempts Left =  5
+
+
+_ _ _ _ _ _ _ _ _ _ 
+Guess a letter : b
+Letter b is not in the word!!!
+Attempts Left =  4
+
+
+_ _ _ _ _ _ _ _ _ _ 
+Guess a letter : i
+Very Good! i is in the word
+
+i _ _ _ _ _ _ _ i _ 
+Guess a letter : s
+Very Good! s is in the word
+
+i _ _ _ _ _ s _ i _ 
+Guess a letter : h
+Very Good! h is in the word
+
+i _ _ _ _ _ s h i _ 
+Guess a letter : n
+Very Good! n is in the word
+
+i n _ _ _ n s h i _ 
+Guess a letter : o
+Letter o is not in the word!!!
+Attempts Left =  3
+
+
+i n _ _ _ n s h i _ 
+Guess a letter : p
+Very Good! p is in the word
+
+i n _ _ _ n s h i p 
+Guess a letter : s
+You already guessed this letter: s Try a different one.
+
+i n _ _ _ n s h i p 
+Guess a letter : h
+You already guessed this letter: h Try a different one.
+
+i n _ _ _ n s h i p 
+Guess a letter : t
+Very Good! t is in the word
+
+i n t _ _ n s h i p 
+Guess a letter : e
+Very Good! e is in the word
+
+i n t e _ n s h i p 
+Guess a letter : w
+Letter w is not in the word!!!
+Attempts Left =  2
+
+
+i n t e _ n s h i p 
+Guess a letter : r
+Very Good! r is in the word
+
+CONGRATS!!!!! YOU WON THE GAME.
+Internship was the word
