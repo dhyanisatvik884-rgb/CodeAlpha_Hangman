@@ -35,6 +35,7 @@ while wrong_guess < max_attempt:
             won = False
     if won:
         print("CONGRATS!!!!! YOU WON THE GAME.")
+        print(sec_word,"was the word")
         break
     if wrong_guess == max_attempt:
         print("GAME OVER!!!")
