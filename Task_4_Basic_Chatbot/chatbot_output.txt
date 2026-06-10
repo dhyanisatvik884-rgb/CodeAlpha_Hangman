@@ -1,0 +1,11 @@
+GREETINGS!! Welcome to the Chatbot.
+>>>  Hi
+Hello, How are you??
+>>>  I am fine
+Good to hear that.
+>>>  How are you
+I am fine, thanks!
+>>>  Are you happy
+SORRY! I don't understand???
+>>>  Bye
+Goodbye, See you later!!
