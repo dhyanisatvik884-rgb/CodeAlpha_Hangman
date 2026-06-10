@@ -3,7 +3,7 @@ import shutil
 
 def organize_jpg_files():
     source_dir = "./source_folder"
-    dest_dir = "./jpg_destination"
+    dest_dir = "./jpgs_destination"
     if not os.path.exists(dest_dir):
         os.makedirs(dest_dir)
         print(f"Created new folder: {dest_dir}")
