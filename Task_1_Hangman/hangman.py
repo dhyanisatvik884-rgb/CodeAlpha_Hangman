@@ -34,7 +34,7 @@ while wrong_guess < max_attempt:
         if ch not in guessed_letters:
             won = False
     if won:
-        print("CONGRATS!!!!! YOU WON THE GAME.")
+        print("CONGRATS!!!! YOU WON THE GAME.")
         print(sec_word.title(),"was the word")
         break
     if wrong_guess == max_attempt:
